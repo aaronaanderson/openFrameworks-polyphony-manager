@@ -1,8 +1,13 @@
-# openFrameworks-polyphony-manager
 
-Dependencies: ofxMIDI, ofxMaxim
+# openFrameworks Polyphony Manager
+Manages MIDI input to keep a tally of all active notes. Includes peal functionality. Will only process the audio from active notes, automatically removing completed notes from the active list.
 
-Note that I made a small additio to ofxMaxim for this to work. 
+<h2>Dependencies :</h2>
+
+ofxMidi, ofxMaxim
+
+<h2>Changes to ofxMaxim:</h2>
+Note that I made a small addition to ofxMaxim for this to work. 
 In the Maximilian.h file:
 
 to the maxiEnv class
