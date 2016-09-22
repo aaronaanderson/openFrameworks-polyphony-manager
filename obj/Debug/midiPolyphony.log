@@ -1,0 +1,44 @@
+﻿  maximilian.cpp
+c:\users\alexa\documents\of_v0.9.3_vs_release\addons\ofxmaxim\libs\maximilian.h(278): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\alexa\documents\of_v0.9.3_vs_release\addons\ofxmaxim\libs\maximilian.h(348): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\alexa\documents\of_v0.9.3_vs_release\addons\ofxmaxim\libs\maximilian.h(494): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\alexa\documents\of_v0.9.3_vs_release\addons\ofxmaxim\libs\maximilian.h(519): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\alexa\documents\of_v0.9.3_vs_release\addons\ofxmaxim\libs\maximilian.h(520): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(626): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(721): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(729): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(740): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(747): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(776): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(798): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(917): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(925): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(936): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(943): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(955): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(966): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(988): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1087): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1121): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1143): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1169): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1170): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1759): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\alexa\documents\of_v0.9.3_vs_release\addons\ofxmaxim\libs\maximilian.h(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\alexa\documents\of_v0.9.3_vs_release\addons\ofxmaxim\libs\maximilian.h(188): note: while compiling class template member function 'void maxiLagExp<float>::init(T,T)'
+          with
+          [
+              T=float
+          ]
+  c:\users\alexa\documents\of_v0.9.3_vs_release\addons\ofxmaxim\libs\maximilian.h(185): note: see reference to function template instantiation 'void maxiLagExp<float>::init(T,T)' being compiled
+          with
+          [
+              T=float
+          ]
+  ..\..\..\addons\ofxMaxim\libs\maximilian.cpp(1129): note: see reference to class template instantiation 'maxiLagExp<float>' being compiled
+  midiPolyphony.vcxproj -> C:\Users\Alexa\Documents\of_v0.9.3_vs_release\apps\myApps\midiPolyphony\bin\midiPolyphony_debug.exe
+  
+  	                   9	C:\Users\Alexa\Documents\of_v0.9.3_vs_release\export\vs\Win32\
